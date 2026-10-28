@@ -1,0 +1,70 @@
+Unicorn Device-Common Binary License
+
+Copyright (c) 2026 Unicorn Vault. All rights reserved.
+
+This license governs the binary artifacts distributed through this
+repository (the "Software"), including but not limited to the
+unicorn-agentd and unicorn-inventoryd daemons, libunicorn_client, the
+AOSP/Soong integration kit, and associated binaries and data files.
+The Software is licensed, not sold. Source code is not distributed.
+
+1. GRANT. Unicorn Vault grants you a non-exclusive, non-transferable,
+   non-sublicensable license to download, integrate into your own
+   Android/AOSP device images, and run the Software on devices you
+   manufacture, operate, or are contracted to produce, solely for the
+   purpose of using the Unicorn device-authentication and protected-data
+   delivery services.
+
+2. SCOPE. You may:
+   a) include the Software in device firmware, system images, and
+      over-the-air update packages for devices described in Section 1;
+   b) reproduce the Software as required for such integration, including
+      build-time processing (stripping, signing, linking, packaging);
+   c) use the accompanying headers, interface definitions, and build
+      rules solely to compile and link your own software against the
+      Software.
+
+3. RESTRICTIONS. You may not:
+   a) redistribute the Software, or any product containing it, outside
+      the integrations described in Section 1, except as authorized by a
+      written commercial agreement with Unicorn Vault;
+   b) modify, adapt, translate, or create derivative works of the
+      Software, except as expressly permitted in Section 2(b);
+   c) reverse engineer, decompile, or disassemble the Software, except
+      to the extent such restriction is prohibited by applicable law;
+   d) remove or alter any copyright, license, or attribution notices;
+   e) use the Software to provide a competing service or to benchmark
+      for competitive purposes without prior written consent;
+   f) sublicense, rent, lease, or lend the Software to third parties.
+
+4. NO OTHER RIGHTS. No license is granted by implication, estoppel, or
+   otherwise except as expressly stated. All intellectual property
+   rights in the Software remain the property of Unicorn Vault.
+
+5. SERVICES. The Software is one component of a licensed service. Use
+   of the corresponding hosted services (enrollment, protected-data
+   delivery, administration) is governed by the separate commercial or
+   service agreement between you and Unicorn Vault; this license does
+   not itself grant service access.
+
+6. NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
+   ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+   NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY. IN NO EVENT SHALL UNICORN VAULT BE LIABLE
+   FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE
+   DAMAGES, OR ANY LOSS OF PROFITS, DATA, OR GOODWILL, ARISING OUT OF OR
+   RELATED TO THE SOFTWARE OR THIS LICENSE, EVEN IF ADVISED OF THE
+   POSSIBILITY OF SUCH DAMAGES.
+
+8. TERMINATION. This license terminates automatically upon breach. On
+   termination you must cease distributing the Software in new
+   integrations; devices already shipped under a valid integration may
+   continue to run their installed copies unless a commercial agreement
+   provides otherwise.
+
+9. GOVERNING LAW. This license is governed by the laws applicable in
+   the commercial agreement between you and Unicorn Vault, or, absent
+   such agreement, the laws of the jurisdiction of Unicorn Vault's
+   incorporation, without regard to conflict-of-laws rules.

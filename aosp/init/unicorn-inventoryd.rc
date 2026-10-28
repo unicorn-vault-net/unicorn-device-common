@@ -1,0 +1,6 @@
+service unicorn-inventoryd /system/bin/unicorn-inventoryd
+    class core
+    user system
+    group system
+    seclabel u:r:unicorn_inventoryd:s0
+    restart_period 5
