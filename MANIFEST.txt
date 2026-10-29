@@ -1,0 +1,10 @@
+unicorn-device-common release manifest
+source_commit: 765e3e02150521f16cb1342d0a71797fd7fa9631 (agentd pinned to deployed c2d5479d)
+packaged_utc: 2026-10-29T18:11:25Z
+
+c34de153669e5a6051a0bbe030871783c6d83627176085bb402db710ffd08599  prebuilt/armeabi-v7a/libunicorn_client.so
+c2d5479daac9fce700ecbba038511fa2ff453576e99ed217f934d8604de9f2fb  prebuilt/armeabi-v7a/unicorn-agentd
+21a34445bb4e3997ad2722c83506230070c68dca3403a0d1c1db1fce7fa509d6  prebuilt/armeabi-v7a/unicorn-inventoryd
+a578b7ec9f26bb1311a5d6ff568f801ffbe42f456d0a9b427bc44c14d76ac1f6  aosp/init/unicorn-agentd.rc
+186aa6409f14f809f57786c000251d2e300ad525549baa158b9f04f366e83716  aosp/init/unicorn-inventoryd.rc
+
