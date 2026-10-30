@@ -2,4 +2,5 @@ service unicorn-agentd /system/bin/unicorn-agentd
     class main
     user system
     group system inet
+    seclabel u:r:unicorn_agentd:s0
     restart_period 5
