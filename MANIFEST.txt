@@ -1,0 +1,11 @@
+unicorn-device-common release manifest
+source_commit: f6e470535767f2695079e048622e59c5cb52b4bd
+bla_version: bla-agents@1.1.0
+bla_intensity: maximum
+packaged_utc: 2026-11-05T02:36:06Z
+
+637abbedeb748e76dbd26db573b96f84fecebf1695355f64724e4c0d5601b3ee  prebuilt/armeabi-v7a/libunicorn_client.so
+e1d624234a94da087747bdc960d29f0b14257ef9c62400d400ba4e41c05b7d01  prebuilt/armeabi-v7a/unicorn-agentd
+578b56bf05c27d310007dd629f1b98c45601e0952d34e5685abaeeaa3306a06d  prebuilt/armeabi-v7a/unicorn-inventoryd
+1d0f77b0953b41a4efe38b67eb2eb2dcf5510921c9d505f00f66d448504281f6  aosp/init/unicorn-agentd.rc
+186aa6409f14f809f57786c000251d2e300ad525549baa158b9f04f366e83716  aosp/init/unicorn-inventoryd.rc
